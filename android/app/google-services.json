@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "323725155665",
+    "project_id": "joker-s-action",
+    "storage_bucket": "joker-s-action.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323725155665:android:153d20dbd4b89f08bd8770",
+        "android_client_info": {
+          "package_name": "com.example.meeting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323725155665-8390d2dqfj5bdts4qquh2co3ppoc3sbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBte07xw9phwLkv9Zq-JmeFPW1_7YVoFc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323725155665-8390d2dqfj5bdts4qquh2co3ppoc3sbl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "323725155665-8qvdq48aus98jubjbamql3jgjqppmjd9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sibol"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

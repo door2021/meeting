@@ -1,0 +1,4 @@
+2023/01/01-20:34:52.365 b903 Reusing MANIFEST /private/var/folders/y3/ggj0qy4n1856cv0h81zkj5wm0000gn/T/flutter_tools.Qr25FV/flutter_tools_chrome_device.GBZMTX/Default/shared_proto_db/MANIFEST-000001
+2023/01/01-20:34:52.365 b903 Recovering log #3
+2023/01/01-20:34:52.365 b903 (ignoring error) /private/var/folders/y3/ggj0qy4n1856cv0h81zkj5wm0000gn/T/flutter_tools.Qr25FV/flutter_tools_chrome_device.GBZMTX/Default/shared_proto_db/000003.log: dropping 392 bytes; Corruption: missing start of fragmented record(2)
+2023/01/01-20:34:52.365 b903 Reusing old log /private/var/folders/y3/ggj0qy4n1856cv0h81zkj5wm0000gn/T/flutter_tools.Qr25FV/flutter_tools_chrome_device.GBZMTX/Default/shared_proto_db/000003.log 
